@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">**Languages & Frameworks:**  <br>`Java 8+` • `Spring Boot` • `Spring MVC` • `JPA` • `Hibernate` • `REST APIs` • `Python`<br><br>**Database & Tools:**  <br>`MS SQL Server` • `MySQL` • `JPA` • `Query Optimization` • `Stored Procedures`<br><br>**DevOps & Productivity:**  <br>`Maven` • `Git` • `GitHub` • `Postman` • `Swagger` • `CI/CD` • `Linux CLI` • `Bash` • `VS Code`<br><br>**Architecture & Patterns:**  <br>`MVC` • `REST` • `SOLID Principles` • `Design Patterns` • `Agile Methodology`orld!!</p>
+<p align="left">**Languages & Frameworks:**  <br>`Java 8+` • `Spring Boot` • `Spring MVC` • `JPA` • `Hibernate` • `REST APIs` • `Python`<br><br>**Database & Tools:**  <br>`MS SQL Server` • `MySQL` • `JPA` • `Query Optimization` • `Stored Procedures`<br><br>**DevOps & Productivity:**  <br>`Maven` • `Git` • `GitHub` • `Postman` • `Swagger` • `CI/CD` • `Linux CLI` • `Bash` • `VS Code`<br><br>**Architecture & Patterns:**  <br>`MVC` • `REST` • `SOLID Principles` • `Design Patterns` • `Agile Methodology`orld!!</p> <br>
 
 ###
 
@@ -77,9 +77,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikas794&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=vikas794&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/vikas794/vikas794/output/snake.svg" alt="Snake animation" />
 
 ###
